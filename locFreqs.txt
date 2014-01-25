@@ -1,0 +1,343 @@
+New York, NY: 20
+San Francisco, CA: 15
+Chicago, IL: 10
+Brooklyn, NY: 7
+London, UK: 7
+Los Angeles, CA: 6
+Washington, DC: 5
+California: 5
+Boston, MA: 5
+Auckland, New Zealand: 4
+Sydney, Australia: 4
+Toronto, Canada: 4
+Los Angeles, California: 3
+Portland, Oregon, USA: 3
+Stockholm, Sweden: 3
+Philadelphia, PA: 3
+Washington, D.C.: 3
+London, England: 3
+United Kingdom: 3
+San Francisco: 3
+New York City: 3
+Portland, OR: 3
+Pennsylvania: 3
+Seattle, WA: 3
+Austin, TX: 3
+London: 3
+NYC: 3
+USA: 3
+Minneapolis, Minnesota: 2
+Long Island, New York: 2
+Sao Paulo, Brazil: 2
+Denver, Colorado: 2
+Portland, Oregon: 2
+New Jersey, USA: 2
+North Carolina: 2
+Providence, RI: 2
+Washington DC: 2
+Vancouver, BC: 2
+Paris, France: 2
+Stanford, CA: 2
+Boulder, CO: 2
+Los Angeles: 2
+Buffalo, NY: 2
+Queens, NY: 2
+New Jersey: 2
+Australia: 2
+Miami, FL: 2
+Singapore: 2
+New York: 2
+Virginia: 2
+Internet: 2
+England: 2
+Canada: 2
+Murrumbeena, Melbourne, Victoria, Australia: 1
+Southern California (Orange County): 1
+Baltimore, Maryland, United States: 1
+(Currently in Vancouver, Canada): 1
+Pleasanton California USA Earth: 1
+East Wenatchee, Washignton, US: 1
+Bushwick, Brooklyn, New York: 1
+Bellingham, Washington, U.S.: 1
+Jersey Shore, United States: 1
+Bugojno, Bosnia Herzegovina: 1
+outside of Portland, Oregon: 1
+Chapel Hill, North Carolina: 1
+Nieuwegein, the Netherlands: 1
+Kamloops, British Columbia: 1
+Amsterdam, The Netherlands: 1
+New Orleans, Louisiana, US: 1
+San Mateo, California, USA: 1
+Winnipeg, Manitoba, Canada: 1
+Seattle, WA, United States: 1
+Belfast, Northern Ireland: 1
+Nijmegen, The Netherlands: 1
+Springfield Illinois, USA: 1
+Cushing, Oklahoma, U.S.A.: 1
+San Francisco, California: 1
+Edgewood, New Mexico, USA: 1
+Schaijk, the Netherlands: 1
+Z&#252;rich, Switzerland: 1
+Fort Wayne, Indiana, USA: 1
+Toronto, Ontario, Canada: 1
+Perth, Western Australia: 1
+Baltimore City, Maryland: 1
+Champaign, Illinois, USA: 1
+Calgary, Alberta, Canada: 1
+Canada, Quebec, Montreal: 1
+Kansas City, Kansas, USA: 1
+Utrecht, The Netherlands: 1
+Washington Heights, NYC: 1
+Boca Raton, FL/New York: 1
+Pioneer Valley, MA, USA: 1
+Baltimore, Maryland USA: 1
+Cape Town, South Africa: 1
+Winters, California USA: 1
+St. Louis Missouri  USA: 1
+Buenos Aires, Argentina: 1
+New Orleans, Louisiana: 1
+Columbia, Maryland USA: 1
+Northeast Alabama, USA: 1
+Kuala Lumpur, Malaysia: 1
+Rajkot, Gujarat, India: 1
+Set&#250;bal, Portugal: 1
+New York City, Tribeca: 1
+Duluth, Minnesota, USA: 1
+S&#227;o Paulo, Brazil: 1
+Rio de Janeiro, Brasil: 1
+Sacramento, California: 1
+Williamsburg, Virginia: 1
+London, United Kingdom: 1
+Menlo Park, California: 1
+S&#227;o Paulo Brazil: 1
+Vancouver, BC, Canada: 1
+Springfield, Missouri: 1
+Montr&#233;al, Quebec: 1
+Montgomery County, MD: 1
+Montclair, New Jersey: 1
+Queensland, Australia: 1
+Washington State, USA: 1
+Atlanta, Georgia, USA: 1
+The Netherlands / USA: 1
+Valencia, Espa&#241;a: 1
+Brooksville, KY, USA: 1
+Duesseldorf, Germany: 1
+Berkeley, California: 1
+Luray, Virginia, USA: 1
+South of England, UK: 1
+Kamloops, BC, Canada: 1
+PS, Go &#8216;Dores!: 1
+A Coru&#241;a, Spain: 1
+Spartanburg, SC, USA: 1
+Canberra, Australia: 1
+Siem Reap, Cambodia: 1
+Charlottesville, VA: 1
+Adelaide, Australia: 1
+Crewkerne, Somerset: 1
+Casablanca, Morocco: 1
+Edinburgh, Scotland: 1
+Helsingborg, Sweden: 1
+Sagada, Philippines: 1
+Silicon Valley, USA: 1
+Napier, New Zealand: 1
+Spokane, Washington: 1
+Newark on Trent, UK: 1
+San Luis Obispo, CA: 1
+St. Louis, MO, USA: 1
+Kitchener-Waterloo: 1
+Guelph, ON, Canada: 1
+Lexington, MA, USA: 1
+Canoas, RS, Brasil: 1
+Salt Lake City, UT: 1
+San Diego, CA, USA: 1
+Calgary AB, Canada: 1
+Jakarta, Indonesia: 1
+Newmarket, NH, USA: 1
+Brooklyn, New York: 1
+Ottawa, ON, Canada: 1
+Toronto, ON Canada: 1
+Wiltshire, England: 1
+Cambridge, MA, USA: 1
+Cedar Rapids, Iowa: 1
+Havre de Grace, MD: 1
+New York, New York: 1
+Seoul, South Korea: 1
+Cambridge, England: 1
+Coimbra, Portugal: 1
+State College, PA: 1
+San Francisco, Ca: 1
+Alvin, Texas, USA: 1
+Portland, OR, USA: 1
+Atlanta, GA (USA): 1
+Monrovia, CA, USA: 1
+Western Australia: 1
+Waterloo, Ontario: 1
+Columbia, SC, USA: 1
+Stavanger, Norway: 1
+Ceredigion, Wales: 1
+Tennessee, U.S.A.: 1
+Juba, South Sudan: 1
+Bydgoszcz, Poland: 1
+Downers Grove, IL: 1
+Helsinki, Finland: 1
+west Hartford, CT: 1
+Toronto, Ontario: 1
+Bangalore, India: 1
+Ardmore, PA, USA: 1
+Kingston, Canada: 1
+Oxnard, CA   USA: 1
+colorado springs: 1
+Chicago, IL, USA: 1
+Portland, ME USA: 1
+Barcelona, Spain: 1
+Jacksonville, FL: 1
+Sydney Australia: 1
+Norwich, England: 1
+Seattle, WA, USA: 1
+Ponies and jokes: 1
+New York/Toronto: 1
+Montreal, Quebec: 1
+Hillsborough, NC: 1
+Socorro, NM, USA: 1
+Northern Germany: 1
+indian trail, nc: 1
+Northern England: 1
+northern Ontario: 1
+Leipzig, Germany: 1
+Newark, Delaware: 1
+Montreal, Canada: 1
+Olympia, WA, USA: 1
+Honolulu, Hawaii: 1
+Manhattan Kansas: 1
+Dresden, Germany: 1
+Hong Kong S.A.R.: 1
+New Delhi, India: 1
+Hamburg, Germany: 1
+Oregon City, OR: 1
+Washington, D.C: 1
+The Netherlands: 1
+East Coast, USA: 1
+Aarhus, Denmark: 1
+Aachen, Germany: 1
+Passau, Germany: 1
+Minneapolis, MN: 1
+New Orleans, LA: 1
+Ontario, Canada: 1
+Worthington, OH: 1
+Basingstoke, UK: 1
+Calgary, Canada: 1
+Vienna, Austria: 1
+Tucson, Arizona: 1
+Dublin, Ireland: 1
+Alberta, Canada: 1
+New Windsor, MD: 1
+Somerville, MA: 1
+Nottingham, UK: 1
+QLD, Australia: 1
+Huntsville, AL: 1
+Tampa, FL, USA: 1
+New Jersey USA: 1
+Alexandria, VA: 1
+Manchester, UK: 1
+Dallastown, PA: 1
+Cracow, Poland: 1
+Little Rock AR: 1
+NSW, Australia: 1
+Wisconsin, USA: 1
+Kolkata, India: 1
+Minsk, Belarus: 1
+&#8232;Toronto: 1
+Treviso, Italy: 1
+Moscow, Russia: 1
+Ft. Worth, TX: 1
+Cambridge, UK: 1
+Michigan, USA: 1
+Manhattan, NY: 1
+Madrid, Spain: 1
+Lancaster, UK: 1
+Maryland, USA: 1
+Rochester, NY: 1
+Englewood, NJ: 1
+New York, USA: 1
+Omaha, NE USA: 1
+New Haven, CT: 1
+Charlotte, NC: 1
+Baltimore, MD: 1
+Dallas, Texas: 1
+Massachusetts: 1
+Kurobe, Japan: 1
+North America: 1
+Sunnyvale, CA: 1
+Zirl, Austria: 1
+-------------: 1
+Ann Arbor, MI: 1
+Lede, Belgium: 1
+Cambridge, MA: 1
+Astoria, N.Y.: 1
+Chicago, Il.: 1
+Oslo, Norway: 1
+Berkeley, CA: 1
+Montreal, QC: 1
+Osaka, Japan: 1
+Noida, India: 1
+Philadelphia: 1
+Bensalem, PA: 1
+Baltimore/DC: 1
+San Jose, CA: 1
+Accra, Ghana: 1
+Alabama, USA: 1
+Upstate, NY: 1
+connecticut: 1
+Northern CA: 1
+Vallejo, CA: 1
+Norwich, UK: 1
+Tacoma, Wa.: 1
+Olympia, WA: 1
+Raleigh, NC: 1
+Netherlands: 1
+Parma, Ohio: 1
+Pulaski, TN: 1
+NYC&amp; DC: 1
+Connecticut: 1
+Albuquerque: 1
+Venice, CA: 1
+Yakima, WA: 1
+Parker, CO: 1
+Alfred, NY: 1
+Dubai, UAE: 1
+Quincy, MA: 1
+Fresno, CA: 1
+Lima, Peru: 1
+Durham, NC: 1
+Oregon/USA: 1
+Indonesia: 1
+Manhattan: 1
+undefined: 1
+Anonymous: 1
+Maryland: 1
+Oklahoma: 1
+Be kind.: 1
+Brooklyn: 1
+Seattle: 1
+Hamburg: 1
+NJ, USA: 1
+TX, USA: 1
+Germany: 1
+Toronto: 1
+Brasil: 1
+Boston: 1
+Brazil: 1
+Milano: 1
+France: 1
+Sydney: 1
+Latvia: 1
+Maine: 1
+Wales: 1
+Texas: 1
+Venus: 1
+earth: 1
+Ohio: 1
+Home: 1
+Iowa: 1
+CT: 1
+UK: 1

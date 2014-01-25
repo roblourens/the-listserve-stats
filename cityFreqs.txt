@@ -1,0 +1,288 @@
+New York: 24
+San Francisco: 20
+London: 14
+Chicago: 12
+Los Angeles: 11
+Portland: 10
+Washington: 9
+Brooklyn: 9
+Toronto: 8
+Seattle: 6
+Boston: 6
+California: 5
+Sydney: 5
+New York City: 4
+Philadelphia: 4
+New Jersey: 4
+Cambridge: 4
+Auckland: 4
+United Kingdom: 3
+Pennsylvania: 3
+Minneapolis: 3
+New Orleans: 3
+Stockholm: 3
+Vancouver: 3
+Baltimore: 3
+Montreal: 3
+Canada: 3
+Austin: 3
+USA: 3
+NYC: 3
+North Carolina: 2
+Washington DC: 2
+Long Island: 2
+Providence: 2
+Sao Paulo: 2
+Singapore: 2
+Australia: 2
+Manhattan: 2
+Internet: 2
+Columbia: 2
+Maryland: 2
+Berkeley: 2
+Virginia: 2
+Stanford: 2
+Kamloops: 2
+Hamburg: 2
+Atlanta: 2
+Olympia: 2
+England: 2
+Calgary: 2
+Buffalo: 2
+Boulder: 2
+Norwich: 2
+Queens: 2
+Denver: 2
+Paris: 2
+Miami: 2
+Southern California (Orange County): 1
+Pleasanton California USA Earth: 1
+St. Louis Missouri  USA: 1
+(Currently in Vancouver: 1
+The Netherlands / USA: 1
+S&#227;o Paulo Brazil: 1
+Springfield Illinois: 1
+outside of Portland: 1
+Kitchener-Waterloo: 1
+Washington Heights: 1
+Montgomery County: 1
+Western Australia: 1
+Northeast Alabama: 1
+Manhattan Kansas: 1
+Northern England: 1
+colorado springs: 1
+South of England: 1
+Sydney Australia: 1
+Washington State: 1
+northern Ontario: 1
+Ponies and jokes: 1
+New York/Toronto: 1
+Northern Germany: 1
+Hong Kong S.A.R.: 1
+Charlottesville: 1
+Newark on Trent: 1
+San Luis Obispo: 1
+The Netherlands: 1
+Rio de Janeiro: 1
+Silicon Valley: 1
+&#8232;Toronto: 1
+Baltimore City: 1
+East Wenatchee: 1
+S&#227;o Paulo: 1
+Pioneer Valley: 1
+Little Rock AR: 1
+Salt Lake City: 1
+Havre de Grace: 1
+New Jersey USA: 1
+State College: 1
+Montr&#233;al: 1
+Downers Grove: 1
+North America: 1
+Massachusetts: 1
+A Coru&#241;a: 1
+-------------: 1
+west Hartford: 1
+Williamsburg: 1
+Cedar Rapids: 1
+Jacksonville: 1
+Hillsborough: 1
+Kuala Lumpur: 1
+Jersey Shore: 1
+Baltimore/DC: 1
+indian trail: 1
+Set&#250;bal: 1
+Buenos Aires: 1
+Spartanburg: 1
+Connecticut: 1
+Netherlands: 1
+New Windsor: 1
+Northern CA: 1
+Duesseldorf: 1
+Brooksville: 1
+Albuquerque: 1
+Basingstoke: 1
+Murrumbeena: 1
+Z&#252;rich: 1
+Helsingborg: 1
+connecticut: 1
+Oregon City: 1
+NYC&amp; DC: 1
+Springfield: 1
+Kansas City: 1
+Chapel Hill: 1
+Worthington: 1
+Nieuwegein: 1
+Fort Wayne: 1
+Menlo Park: 1
+Alexandria: 1
+Casablanca: 1
+Nottingham: 1
+Manchester: 1
+Oregon/USA: 1
+East Coast: 1
+Sacramento: 1
+Bellingham: 1
+Queensland: 1
+Boca Raton: 1
+Ceredigion: 1
+Somerville: 1
+Huntsville: 1
+Dallastown: 1
+Calgary AB: 1
+San Diego: 1
+Anonymous: 1
+Lexington: 1
+Ft. Worth: 1
+Montclair: 1
+Bangalore: 1
+Siem Reap: 1
+Champaign: 1
+Rochester: 1
+Crewkerne: 1
+San Mateo: 1
+Edinburgh: 1
+Wisconsin: 1
+Wiltshire: 1
+Stavanger: 1
+Indonesia: 1
+Cape Town: 1
+Sunnyvale: 1
+New Delhi: 1
+Newmarket: 1
+Charlotte: 1
+Englewood: 1
+Lancaster: 1
+Bydgoszcz: 1
+Barcelona: 1
+St. Louis: 1
+New Haven: 1
+undefined: 1
+Ann Arbor: 1
+Tennessee: 1
+Amsterdam: 1
+Be kind.: 1
+Oklahoma: 1
+Waterloo: 1
+Bensalem: 1
+Nijmegen: 1
+Michigan: 1
+Honolulu: 1
+Bushwick: 1
+Monrovia: 1
+Adelaide: 1
+San Jose: 1
+Helsinki: 1
+Canberra: 1
+Winnipeg: 1
+Valencia: 1
+Edgewood: 1
+Kingston: 1
+Astoria: 1
+Socorro: 1
+Treviso: 1
+Bugojno: 1
+Jakarta: 1
+Upstate: 1
+Utrecht: 1
+Ontario: 1
+Belfast: 1
+Spokane: 1
+Alberta: 1
+Coimbra: 1
+Cushing: 1
+Leipzig: 1
+Pulaski: 1
+Kolkata: 1
+Schaijk: 1
+Dresden: 1
+Germany: 1
+Vallejo: 1
+Raleigh: 1
+Alabama: 1
+Winters: 1
+Ardmore: 1
+Newark: 1
+Sagada: 1
+Guelph: 1
+Fresno: 1
+Durham: 1
+France: 1
+Vienna: 1
+Dublin: 1
+Parker: 1
+Canoas: 1
+Tucson: 1
+Madrid: 1
+Latvia: 1
+Tacoma: 1
+Brazil: 1
+Quincy: 1
+Dallas: 1
+Alfred: 1
+Moscow: 1
+Napier: 1
+Milano: 1
+Ottawa: 1
+Oxnard: 1
+Venice: 1
+Cracow: 1
+Passau: 1
+Brasil: 1
+Duluth: 1
+Aachen: 1
+Rajkot: 1
+Kurobe: 1
+Aarhus: 1
+Yakima: 1
+Perth: 1
+Texas: 1
+Omaha: 1
+Tampa: 1
+Dubai: 1
+Venus: 1
+Osaka: 1
+earth: 1
+Seoul: 1
+Noida: 1
+Parma: 1
+Wales: 1
+Maine: 1
+Luray: 1
+Alvin: 1
+Minsk: 1
+Accra: 1
+Lede: 1
+Juba: 1
+Ohio: 1
+Oslo: 1
+Lima: 1
+Zirl: 1
+Home: 1
+Iowa: 1
+NSW: 1
+QLD: 1
+UK: 1
+NJ: 1
+CT: 1
+TX: 1
+PS: 1
